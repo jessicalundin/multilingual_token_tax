@@ -1,0 +1,12 @@
+id,model,dir,tokenizer,tokenizer_source,model_outputs_source,price_per_token,price_link
+0,Anthropic/claude-3-5-sonnet-20241022,Anthropic_Sonnet35,anthropic/claude-3.5-sonnet,Anthropic API,David,3e-09,https://www.anthropic.com/pricing#api
+1,CohereLabs/aya-23-35B,CohereForAI_Aya23_35B,CohereLabs/aya-23-35B,AutoTokenizer,local (7 Titans),2.5e-09,https://cohere.com/pricing
+2,deepseek-ai/DeepSeek-R1,DeepSeek_R1,deepseek-ai/DeepSeek-R1,AutoTokenizer,Together AI,5.5e-10,https://api-docs.deepseek.com/quick_start/pricing
+3,deepseek-ai/DeepSeek-V3-0324,DeepSeek_V3,deepseek-ai/DeepSeek-V3-0324,AutoTokenizer,Together AI,2.7e-10,https://api-docs.deepseek.com/quick_start/pricing
+4,Google/gemini-15-Pro-002,Gemini15_Pro002,google/gemini-1.5-pro-002,Gemini GenAI API,David,1.25e-09,https://api-docs.deepseek.com/quick_start/pricing
+5,meta-llama/Llama-3.1-405B,Llama31_405B,meta-llama/Llama-3.1-405B,AutoTokenizer,David,5.33e-09,https://www.prompthub.us/models/llama-3-1-405b
+6,microsoft/phi-4,Microsoft_Phi4,microsoft/phi-4,AutoTokenizer,local (7 Titans),2.2e-10,https://artificialanalysis.ai/models/phi-4
+7,OpenAI/gpt-4o-2024-08-06,OpenAI_GPT4o,openai/gpt-4o/o200k_base,TikToken,David,3.75e-09,https://openai.com/api/pricing/
+8,OpenAI/o1-preview-2024-09-12,OpenAI_o1,openai/o1-preview/o200k_base*,TikToken,David,1.5e-08,https://openai.com/api/pricing/
+9,mistralai/Pixtral-12B-2409,Pixtral_12B_2409,mistralai/Pixtral-12B-2409,MistralTokenizer Local,local (7 Titans),1.5e-10,https://artificialanalysis.ai/models/pixtral/providers#pricing
+10,Qwen/Qwen2.5-32B,Qwen25_32B,Qwen/Qwen2.5-32B,AutoTokenizer,local (7 Titans),6.6e-10,https://developers.cloudflare.com/workers-ai/models/qwen2.5-coder-32b-instruct/
